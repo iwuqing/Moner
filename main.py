@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-# ----------------------------------------------#
-# Project  : Radial_CT
-# File     : main.py
-# Date     : 2024/6/2
-# Author   : Qing Wu
-# Email    : wuqing@shanghaitech.edu.cn
-# ----------------------------------------------#
 import train
 import utils
 import numpy as np
