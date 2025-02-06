@@ -1,6 +1,6 @@
 # Moner
 
-This is the official implementation of our ICLR 2025 submission, **"Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation"**.
+This is the official implementation of our ICLR 2025 paper, **"Moner: Motion Correction in Undersampled Radial MRI with Unsupervised Neural Representation"** [[OpenReview](https://openreview.net/forum?id=OdnqG1fYpo)].
 
 ![image](fig/fig_method.jpg)  
 *Fig. 1: Overview of the proposed Moner model.*
