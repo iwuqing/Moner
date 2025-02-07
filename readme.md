@@ -82,3 +82,17 @@ For the 5 projections (`./data/kdata_360_5.nii`), the quantitative results of th
 ## Others
 
 NIFTI files (`.nii`) can be viewed using the ITK-SNAP software, available for free download at: http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP4
+
+## Citation
+
+If you find our work useful in your research, please cite:
+```
+@inproceedings{
+wu2025moner,
+title={Moner: Motion Correction in Undersampled Radial {MRI} with Unsupervised Neural Representation},
+author={Qing Wu and Chenhe Du and Xuanyu Tian and Jingyi Yu and Yuyao Zhang and Hongjiang Wei},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=OdnqG1fYpo}
+}
+```
